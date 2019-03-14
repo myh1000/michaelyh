@@ -1,0 +1,5 @@
+*.tex
+icons/
+.DS_Store
+resume/
+resume.pdf
